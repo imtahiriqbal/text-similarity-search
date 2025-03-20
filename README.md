@@ -10,7 +10,7 @@
 
 <tr>
 <td>Python</td>
-<td>3.11</td>
+<td>3.8 or newer</td>
 </tr>
 
 <tr>
